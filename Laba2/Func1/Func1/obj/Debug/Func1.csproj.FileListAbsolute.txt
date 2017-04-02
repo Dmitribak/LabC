@@ -1,0 +1,10 @@
+C:\Users\dmitr\Source\Repos\Lab-C\Func1\Func1\bin\Debug\Func1.dll
+C:\Users\dmitr\Source\Repos\Lab-C\Func1\Func1\bin\Debug\Func1.pdb
+C:\Users\dmitr\Source\Repos\Lab-C\Func1\Func1\obj\Debug\Func1.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\Source\Repos\Lab-C\Func1\Func1\obj\Debug\Func1.dll
+C:\Users\dmitr\Source\Repos\Lab-C\Func1\Func1\obj\Debug\Func1.pdb
+C:\Users\dmitr\Source\Repos\Lab-C\Laba2\Func1\Func1\bin\Debug\Func1.dll
+C:\Users\dmitr\Source\Repos\Lab-C\Laba2\Func1\Func1\bin\Debug\Func1.pdb
+C:\Users\dmitr\Source\Repos\Lab-C\Laba2\Func1\Func1\obj\Debug\Func1.dll
+C:\Users\dmitr\Source\Repos\Lab-C\Laba2\Func1\Func1\obj\Debug\Func1.pdb
+C:\Users\dmitr\Source\Repos\Lab-C\Laba2\Func1\Func1\obj\Debug\Func1.csprojResolveAssemblyReference.cache

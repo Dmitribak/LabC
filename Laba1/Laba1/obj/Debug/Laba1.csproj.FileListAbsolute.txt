@@ -1,0 +1,6 @@
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\dmitr\Source\Repos\Lab-C\Laba1\Laba1\obj\Debug\Laba1.pdb
